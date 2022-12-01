@@ -1,0 +1,36 @@
+﻿  A subdirectory or file C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\Debug\Content already exists.
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Effects\BasicEffect.cso
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Effects\BasicEffect.fx
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Effects\DiffuseLighting.fx
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Effects\TextureMapping.cso
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Effects\TextureMapping.fx
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Effects\include\Common.fxh
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Fonts\Arial_14_Regular.spritefont
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Models\bench.3ds
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Models\DirectionalLightProxy.mtl
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Models\DirectionalLightProxy.obj
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Models\house.3DS
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Textures\bench.jpg
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Textures\grass.jpg
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\content\Textures\house.bmp
+  14 File(s) copied
+FXC : warning X4717: Effects deprecated for D3DCompiler_47
+  
+  compilation object save succeeded; see C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\Debug\Content\Effects\DiffuseLighting.cso
+  DiffuseLightingMaterial.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  ModelFromFile.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  ObjectDiffuseLight.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Program.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  RenderingGame.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  TriangleDemo.cpp
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  Generating Code...
+  LINK : C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\Debug\Game.exe not found or not built by the last incremental link; performing full link
+  Game.vcxproj -> C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\Debug\Game.exe
+  C:\Users\w1807061\Desktop\Week 9\6CCGD009WCGProject\CGFinal\myGame\build\..\..\external\assimp\bin\assimp_release-dll_win32\assimp.dll
+          1 file(s) copied.
